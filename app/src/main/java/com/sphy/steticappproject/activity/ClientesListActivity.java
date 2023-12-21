@@ -44,6 +44,9 @@ public class ClientesListActivity extends AppCompatActivity {
         recyclerView.setAdapter(adapter);
     }
 
+    //Prueba de cambio
+
+
     @Override
     protected void onResume() {
         super.onResume();
