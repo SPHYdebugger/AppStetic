@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">SteticApp</string>
     <string name="name">Nombre</string>
     <string name="description">Apellidos</string>
@@ -7,4 +8,7 @@
     <string name="details">Detalles</string>
     <string name="urgent">Urgente</string>
     <string name="tarea_insertada">Tarea insertada</string>
+=======
+    <string name="app_name">AppStetic</string>
+>>>>>>> ce4670dcd07848137edd4414b92569c0103f0b02
 </resources>
