@@ -13,6 +13,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
+rootProject.name = "SteticApp Project"
+include(":app")
+=======
 rootProject.name = "AppStetic"
 include(":app")
  
+>>>>>>> ce4670dcd07848137edd4414b92569c0103f0b02

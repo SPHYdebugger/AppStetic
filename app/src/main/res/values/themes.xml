@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
+    <style name="Base.Theme.SteticAppProject" parent="Theme.Material3.DayNight.NoActionBar">
+=======
     <style name="Base.Theme.AppStetic" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> ce4670dcd07848137edd4414b92569c0103f0b02
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
+    <style name="Theme.SteticAppProject" parent="Base.Theme.SteticAppProject" />
+=======
     <style name="Theme.AppStetic" parent="Base.Theme.AppStetic" />
+>>>>>>> ce4670dcd07848137edd4414b92569c0103f0b02
 </resources>
